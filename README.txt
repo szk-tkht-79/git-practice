@@ -1,3 +1,3 @@
 read me
 remote
-remore2
+remote2
