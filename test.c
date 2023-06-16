@@ -2,8 +2,8 @@
 int main(void)
 {
     printf("test %d \n",15);
-    print("a \n");
-    print("b \n");
-    print("c \n");
+    printf("a \n");
+    printf("b \n");
+    printf("c \n");
 return 0;
 }
